@@ -52,7 +52,7 @@ Attrition significantly drops in older age groups (46-55 and 55+).
 
 **Attrition by Years at Company**: Highest attrition observed in employees with 0-5 years at the company. A noticeable drop in attrition for those who have been with the company for more than 10 years.
 
-!(https://github.com/Pratiksha-Analyst/HR-Analytics/blob/main/HR_Analytics_page-0001.jpg)
+https://github.com/Pratiksha-Analyst/HR-Analytics/blob/main/HR_Analytics_page-0001.jpg
 
 
 These insights suggest that employee retention strategies should focus on improving conditions for younger employees, those in lower salary bands, and specific job roles like Laboratory Technicians and Sales Executives. Additionally, addressing concerns related to career growth and development for employees with certain educational backgrounds could help in reducing overall attrition rates.
