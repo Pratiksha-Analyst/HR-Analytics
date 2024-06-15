@@ -18,18 +18,38 @@ Summarized insights in a Power BI dashboard to provide a comprehensive view of e
 
 **Dashboard Insights**
 **Overall Attrition Metrics**: Employee Count: 1470 employees.
+
+
 **Attrition Count**: 237 employees have left the company.
+
+
 **Attrition Rate**: 16.1%, indicating a significant turnover rate.
+
+
 **Average Salary**: $6.5K.
+
+
 **Average Years at Company**: 7 years.
+
+
 **Average Age**: 37 years.
 Attrition by Education:Highest attrition is seen in employees with a background in Medical (27%) and Life Sciences (38%).
 Lower attrition rates in Marketing (15%) and Technical Degrees (14%).
+
+
 **Attrition by Age**: Majority of attrition occurs in the age group 26-35 (116 employees), followed by 18-25 (44 employees) and 36-45 (43 employees).
 Attrition significantly drops in older age groups (46-55 and 55+).
+
+
 **Attrition by Job Role**:Laboratory Technicians: Highest attrition with 62 employees.Sales Executives: 57 employees.Research Scientists: 47 employees.Lower attrition in roles like Managers (5) and Research Directors (2).
+
+
 **Attrition by Salary**: Up to $5K: 163 employees, indicating higher attrition among lower-paid employees. Attrition decreases as salary increases, with only 5 employees in the highest salary band ($15K+).
+
+
 **Attrition by Gender**: Slightly higher attrition in males (143) compared to females.
+
+
 **Attrition by Years at Company**: Highest attrition observed in employees with 0-5 years at the company. A noticeable drop in attrition for those who have been with the company for more than 10 years.
 
 
